@@ -1,8 +1,8 @@
-# PySlots
+# PySlots - Python Slot Machine Game
 
 Why pay real money to play Slots in a casino, when you can play **PySlots** for free, right from your terminal? This little command line game is an project that was forgoten for years on an old HDD. But now it's been found and shared with the world. 
 
-![Screen Recording 2022-07-25 at 11 23 27](https://user-images.githubusercontent.com/43548656/180732592-e6e99722-43d5-4134-83dc-78f8627deabb.gif)
+![Screen Recording 2022-07-26 at 08 46 53](https://user-images.githubusercontent.com/43548656/180932856-9548f6ca-76c7-4e62-b5af-a05b03dcea21.gif)
 
 ## Highlights 
 **PySlots** supports:
@@ -26,4 +26,4 @@ Playing the game is as simple as navigating to the Directory that golds the `.py
 
 `python3 PySlots.py`
 
-Enjoy
+Enjoy!
